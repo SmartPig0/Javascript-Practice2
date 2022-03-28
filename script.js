@@ -7,7 +7,7 @@ btn.addEventListener('mouseout',Alerta)
 
 function Trocar(){
     if(btn.style.background === 'black')
-    btn.style.background = 'red'   
+    btn.style.background = 'red' 
     else if(btn.style.background === 'red')
     btn.style.background = 'green'
     else if(btn.style.background === 'green')
